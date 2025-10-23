@@ -1,0 +1,4 @@
+# Torpedo stroes are fired alternating
+GT4500,1,0,1,0
+TORPEDO,SINGLE # First shot should be from primary store
+TORPEDO,SINGLE # Second shot should be from secondary store

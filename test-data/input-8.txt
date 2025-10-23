@@ -1,0 +1,3 @@
+# Trying to fire both torpedo stores but only primary is loaded
+GT4500,1,0,0,0
+TORPEDO,ALL

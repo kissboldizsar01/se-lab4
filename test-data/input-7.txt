@@ -1,0 +1,5 @@
+# Although primary was fired last time, but the secondary is empty
+# thus try to fire primary again
+GT4500,2,0,0,0
+TORPEDO,SINGLE # First shot should be from primary store
+TORPEDO,SINGLE # Second shot should be from secondary store
